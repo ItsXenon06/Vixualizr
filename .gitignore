@@ -48,3 +48,8 @@ build/
 
 # Windows
 Thumbs.db
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
